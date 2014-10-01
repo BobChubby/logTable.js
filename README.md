@@ -18,7 +18,7 @@ var testDB = [
 
 Log this array to a table:
 ```
-arrayOfObjects.logTable()
+testDB.logTable()
 ```
 
 The output is:
